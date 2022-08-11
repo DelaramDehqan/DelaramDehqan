@@ -1,22 +1,27 @@
-Hello World, I'm Delaram 👋
+
 
 ![codee](https://user-images.githubusercontent.com/103545728/184159434-5a30eab8-2969-41ca-97d6-9bec8df733ee.jpg)
+<h1 align="center">Hi 👋, I'm Delaram</h1>
+<h3 align="center">A Beiginner frontend developer from Iran</h3>
 
+- 🔭 I’m currently working on **MaktabSharif final project**
 
+- 🌱 I’m currently learning **React.js, Javascript**
 
-I'm a student,  BeiginnerDeveloper, Creator!!
+- 👯 I’m looking to collaborate on **open source that be patience and senior**
 
+- 🤝 I’m looking for help with **shopping applications**
 
-✍ You can find my projects here portfolio
+- 📫 How to reach me **aramdehqan@outlook.com**
 
-🔭 I’m currently working on my MaktabSharif final project.
+- ⚡ Fun fact **I love designing color that make you look at output same as my look...**
 
-🌱 I’m currently learning React Native and Typescript and Material
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/db_ram77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="db_ram77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/delaramdehqan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delaramdehqan" height="30" width="40" /></a>
+<a href="https://fb.com/aramdehqan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aramdehqan" height="30" width="40" /></a>
+</p>
 
-👯 I’m looking to collaborate on open source that be patience and senior of front-end :))
-
-💬 Ask me about ... Anything
-
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I love designing color that make you look at output same as my look.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
