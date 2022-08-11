@@ -1,6 +1,6 @@
 
 
-![codee](https://user-images.githubusercontent.com/103545728/184159434-5a30eab8-2969-41ca-97d6-9bec8df733ee.jpg)
+![codee align="center"](https://user-images.githubusercontent.com/103545728/184159434-5a30eab8-2969-41ca-97d6-9bec8df733ee.jpg)
 <h1 align="center">Hi 👋, I'm Delaram</h1>
 <h3 align="center">A Beiginner frontend developer from Iran</h3>
 
