@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Delaram</h1>
+<h1 align="center">Hi , I'm Delaram</h1>
+
 <h3 align="center">A Beiginner frontend developer from Iran</h3>
 
-- 🔭 I’m currently working on **MaktabSharif final project**
+- 🔭 I’m currently angular intern at **Omran modern**
 
-- 🌱 I’m currently learning **React.js, Javascript**
-
-- 👯 I’m looking to collaborate on **open source that be patience and senior**
-
-- 🤝 I’m looking for help with **shopping applications**
+- 🌱 I’m currently learning **angular, analogJs**
 
 - 📫 How to reach me **aramdehqan@outlook.com**
 
-- ⚡ Fun fact **I love designing color that make you look at output same as my look...**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,4 +15,4 @@
 
 
 
-![codee](https://user-images.githubusercontent.com/103545728/184159434-5a30eab8-2969-41ca-97d6-9bec8df733ee.jpg)
+
