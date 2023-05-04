@@ -2,11 +2,11 @@
 
 <h3 align="center">A Beiginner frontend developer from Iran</h3>
 
-- 🔭 I’m currently angular intern at **Omran modern**
+-  I’m currently angular intern at **Omran modern**
 
-- 🌱 I’m currently learning **angular, analogJs**
+-  I’m currently learning **angular, analogJs**
 
-- 📫 How to reach me **aramdehqan@outlook.com**
+-  How to reach me **aramdehqan@outlook.com**
 
 
 
