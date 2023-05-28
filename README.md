@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Delaram</h1>
 
-<h3 align="center">A Beiginner frontend developer from Iran</h3>
+<h3 align="center">A junior frontend developer from Iran</h3>
 
 -  I’m currently angular intern at **Omran modern**
 
