@@ -2,7 +2,7 @@
 
 <h3 align="center">A junior frontend developer from Iran</h3>
 
--  I’m currently angular intern at **Omran modern**
+-  I’m currently frontend-dev at **Omran modern**
 
 -  I’m currently learning **angular, analogJs**
 
